@@ -2248,14 +2248,13 @@ button.dropdown-toggle:active:focus {
   padding-bottom: 20px;
 }
 .blog_image_wrap {
-  width: 275px;
   margin: 10px auto 20px;
 }
 .blog_image_wrap a {
 
 }
 .blog_image_wrap img {
-  width: 275px;
+  width: 100%;
   padding: 10px 5px;
 }
 .blog_wide_image_wrap,
